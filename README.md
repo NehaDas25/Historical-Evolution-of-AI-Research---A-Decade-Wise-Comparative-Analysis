@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 For any questions or collaboration inquiries, feel free to contact:
 - **Name**: Neha Das
 - **Email**: [nehadas9619@gmail.com](mailto:nehadas9619@gmail.com)
-- **LinkedIn**: [Neha's LinkedIn Profile][https://www.linkedin.com/in/nehadas-96/]
+- **LinkedIn**: [Neha's LinkedIn Profile](https://www.linkedin.com/in/nehadas-96/)
 
 ---
 
