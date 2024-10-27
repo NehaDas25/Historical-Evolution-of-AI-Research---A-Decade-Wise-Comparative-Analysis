@@ -90,7 +90,7 @@ The chatbot allows users to interact with AI's history in an engaging way:
 
 ## 🏷 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the Apache License. See the `LICENSE` file for more information.
 
 ## 📧 Contact
 
