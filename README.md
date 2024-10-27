@@ -88,6 +88,15 @@ The chatbot allows users to interact with AI's history in an engaging way:
 - Ask questions about AI milestones, influential papers, and paradigm shifts.
 - The chatbot responds with enthusiastic and informative answers based on a custom personality.
 
+## Limitations of Using Google Gemini 1.5 Long Context
+While the Gemini model’s long context window enables processing of vast historical data, some limitations include:
+
+1. **Token Limit Management:** Large volumes of data may require careful segmentation or summarization to fit within token constraints, potentially affecting continuity of insights.
+2. **Contextual Integrity:** Long context may struggle with the coherence of complex comparative insights, as trends and shifts from different decades can sometimes get generalized.
+3. **Comparative Analysis Complexity:** The model may overemphasize general trends across decades, potentially missing subtle but important differences.
+4. **Computation Costs and Rate Limits:** Processing extensive historical data may incur high computational costs and be limited by API usage rates.
+5. **Model Limitations with Historical Knowledge:** While the model provides rich historical analysis, it may lack certain nuanced understandings of trends unless explicitly prompted.
+
 ## 🏷 License
 
 This project is licensed under the Apache License. See the `LICENSE` file for more information.
